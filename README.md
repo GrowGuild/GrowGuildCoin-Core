@@ -1,0 +1,2 @@
+# GrowGuildCoin-Core
+Global Cryptocurrency
