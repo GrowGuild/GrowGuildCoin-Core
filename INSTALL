@@ -1,0 +1,9 @@
+Building GrowGuildCoin
+
+See doc/readme-qt.rst for instructions on building GrowGuildCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GrowGuildCoin.
+
+See doc/build-*.txt for instructions on building growguildcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GrowGuildCoin.

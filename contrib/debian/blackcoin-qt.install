@@ -1,0 +1,5 @@
+growguildcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/growguildcoin-qt.desktop usr/share/applications
+debian/growguildcoin-qt.protocol usr/share/kde4/services/

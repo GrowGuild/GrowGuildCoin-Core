@@ -1,0 +1,2 @@
+debian/bin/growguildcoind usr/bin
+src/growguildcoind usr/lib/growguildcoin

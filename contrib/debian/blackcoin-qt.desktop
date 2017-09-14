@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GrowGuildCoin
+Comment=GrowGuildCoin P2P Cryptocurrency
+Comment[fr]=GrowGuildCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GrowGuildCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/growguildcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/growguildcoin;
+Categories=Office;
