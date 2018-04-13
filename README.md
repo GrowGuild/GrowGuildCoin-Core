@@ -6,3 +6,6 @@ GrowGuildCoin is an experimental digital currency that enables instant payments 
 IMPORTANT!
 
 The master branch is CURRENTLY DEPRECATED!. Tags are created regularly to indicate new official, stable release versions of GrowGuildCoin Core.
+
+
+Details: https://etherscan.io/token/0xf93c70f6c8106845d810d2da521fa4e20cb4c611
