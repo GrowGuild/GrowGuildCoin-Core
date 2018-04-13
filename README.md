@@ -8,7 +8,9 @@ GrowGuildCoin is an experimental digital currency that enables instant payments 
 GrowGuildCoin Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
 Development Process
 
-The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of GrowGuildCoin Core.
+The master branch is CURRENTLY DEPRECATED!. Tags are created regularly to indicate new official, stable release versions of GrowGuildCoin Core.
+
+This Branch IS where all new developments will occur...
 
 
 Developers are strongly encouraged to write unit tests for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make check. Further details on running and extending unit tests can be found in /src/test/README.md.
